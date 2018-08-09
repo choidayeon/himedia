@@ -12,3 +12,11 @@ nav#gnb>ul>li>a:hover{font-weight:bold;}
 #logo_wrap{width:980px;height:60px;margin:0 auto;position:relative}
 #logo_wrap>h1{width:250px;text-align:center;margin:0 auto;padding-top:5px;}
 #logo_wrap>div.toggle{position:absolute;right:0;top:8px;}
+
+#main_lnb_wrap{width:100%;height:40px;background:#1c5da3;}
+#main_lnb{width:980px;margin:0 auto;}
+#lnb>ul{overflow:hidden;}
+#lnb>ul>li{float:left;width:16.65%;border-left:1px solid #3a8be2;}
+#lnb>ul>li:last-child{border-right:1px solid #3a8be2;}
+#lnb>ul>li>a{display:block;text-align:center;line-height:40px;color:white;}
+#lnb>ul>li>a:hover{background:skyblue;font-weight:bold;color:#1c5da3;}
