@@ -39,6 +39,7 @@
 #lnb .sub li a:hover{background:#1c5da3;color:powderblue;}
 
 #visual_wrap{
+	width:100%;
 	height:400px;
 	background:#203969 url(../images/visual_bg.jpg) no-repeat center}
 #visual_wrap .visual{

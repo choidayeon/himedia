@@ -6,4 +6,6 @@ $(function(){
 	}).mouseleave(function(){
 		$("ul.sub").hide();
 	});
+
+	$(".slider_wrap").bxSlider();
 });
