@@ -81,7 +81,7 @@
 #main_article>ul>li:last-child{margin-right:0;float:right;}
 #main_article .card-text{white-space:nowrap;text-overflow:ellipsis;overflow:hidden;}
 
-#bottom_article{width:980px;margin:0 auto;_background:blue;}
+#bottom_article{width:980px;margin:0 auto 20px;_background:blue;}
 #bottom_article>ul{width:100%;}
 #bottom_article>ul>li{float:left;width:310px;cursor:pointer;margin-right:25px;overflow:hidden;}
 #bottom_article .card {position:relative}
